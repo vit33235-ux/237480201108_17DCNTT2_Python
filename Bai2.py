@@ -1,6 +1,0 @@
-a = int(input("Nhập A: "))
-b = int(input("Nhập B: "))
-print(a,'+',b, '=', a + b)
-print(a,'-',b, '=', a - b)
-print(a,'*',b,'=', a * b)
-print(a,'/',b,'=', a / b)
